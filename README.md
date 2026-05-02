@@ -1,5 +1,5 @@
 Technical Analysis: Sovereign Engine "Cortex" Extension
-Author: Antigravity AI (AnonLabs)
+Author:(AnonLabs)
 Version: 6.0 "Nexus"
 Stack: C++20, ImGui, WinHttp, ONNX Runtime, simdjson
 
